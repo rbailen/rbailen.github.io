@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Hard Skills"
+title: "Hard skills"
 permalink: /skills/
 author_profile: true
 redirect_from:
@@ -52,7 +52,7 @@ redirect_from:
   * Enterprise Architect, Visual Paradigm
 * Office Package: Microsoft Office, Microsoft Project, Apache OpenOffice
 
-Soft Skills
+Soft skills
 ======
 * **Self-awareness**: Highly motivated individual. I am willing to admit and take accountability for mistakes, actioning feedback, leading me to strive for continuous personal improvement. I am persistent in pursuing goals despite obstacles and setbacks.
 * **Problem-solving**: Experience on the use of problem-solving tools for the analysis and identification of requirements for establishing best practices in the implementation of the final solution.
