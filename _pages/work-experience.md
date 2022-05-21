@@ -1,21 +1,14 @@
-<!-- ---
+---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Work experience"
+permalink: /work-experience/
 author_profile: true
 redirect_from:
-  - /resume
+  - /work
 ---
 
 {% include base_path %}
 
-Education
-======
-* Specialization in Internet Project Development, University of Alcalá, 2015 - 2017
-* Degree in Computer Engineering (Specialty in Software Engineering), University of Jaén, 2011 - 2015
-
-Work experience
-======
 * **Solutions Architect**
     * RANDSTAD
     * Madrid, Spain
@@ -105,16 +98,8 @@ Work experience
         * Web application for managing a sports shop. Use JDBC, plus Servlets, JSPs and security technologies
         * Mobile application that uses the PrimeFaces library
         * Desktop application with Java Swing to manage a tobacco shop
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -132,8 +117,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
- -->
+-->
