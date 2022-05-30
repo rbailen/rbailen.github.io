@@ -19,7 +19,7 @@ Languages
 
 Courses
 ======
-* API Security Architect, API Academy, Agosto 2021
+* API Security Architect, API Academy, August 2021
 * Quarkus, OpenWebinars, April 2021
 * Testing con BDD, OpenWebinars, April 2021
 * Test-Driven Development, OpenWebinars, March 2021
