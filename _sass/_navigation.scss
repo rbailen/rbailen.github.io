@@ -176,6 +176,9 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  display: flex;
+  justify-content: center;
+  padding-left: 2.8rem;
 
   a {
     display: block;
@@ -218,7 +221,7 @@
 
       &:last-child {
         a {
-          margin-right: 0;
+          margin-right: 8.6rem;
         }
       }
     }
