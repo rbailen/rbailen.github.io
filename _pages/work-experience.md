@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+* **Tech Lead**
+    * IOBUILDERS BLOCKCHAIN TECH & VENTURES SL
+    * Madrid, Spain
+    * February 2022 - Present
+
 * **Solutions Architect**
     * RANDSTAD
     * Madrid, Spain
-    * June 2020 - Present
+    * June 2020 - February 2022
         * Develop and manage cloud architecture in AWS oriented to APIs and microservices
         * Define and implement solutions for backend component architecture
         * Create guidelines and procedures to promote the best technical standards and technologies
