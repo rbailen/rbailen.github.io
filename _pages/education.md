@@ -19,6 +19,7 @@ Languages
 
 Courses
 ======
+* Blockchain Essentials: An Introduction to Blockchain, ConsenSys, July 2022
 * API Security Architect, API Academy, August 2021
 * Quarkus, OpenWebinars, April 2021
 * Testing con BDD, OpenWebinars, April 2021
