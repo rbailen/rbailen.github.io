@@ -13,11 +13,11 @@ redirect_from:
     * IOBUILDERS BLOCKCHAIN TECH & VENTURES SL
     * Madrid, Spain
     * February 2022 - Present
-      * Lead the development across our frontend and backend teams
+      * Lead the development across frontend and backend teams
       * Work with product owners/managers to help with the product roadmap
       * Serve as a go-to person for tech-related questions
       * Create high-level design documents, technical descriptions and architecture diagrams
-      * Have an active role during our agile ceremonies
+      * Have an active role during agile ceremonies
       * Mentor juniors and mid-level engineers
     * Technologies:
       * AWS
