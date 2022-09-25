@@ -19,7 +19,7 @@ redirect_from:
   * REST, Swagger
   * OAuth, JWT
   * IBM API Connect
-* Testing: JUnit, Mockito, PowerMock, JaCoCo, Cucumber
+* Testing: JUnit, Mockito, PowerMock, JaCoCo, Cucumber, Spock
 * Databases:
   * Derby, MySQL, Oracle, PostgreSQL, H2
   * MongoDB
