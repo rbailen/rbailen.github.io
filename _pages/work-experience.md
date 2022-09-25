@@ -13,6 +13,18 @@ redirect_from:
     * IOBUILDERS BLOCKCHAIN TECH & VENTURES SL
     * Madrid, Spain
     * February 2022 - Present
+      * Lead the development across our frontend and backend teams
+      * Work with product owners/managers to help with the product roadmap
+      * Serve as a go-to person for tech-related questions
+      * Have an active role during our agile ceremonies
+      * Mentor juniors and mid-level engineers
+    * Technologies:
+      * AWS
+      * REST, Swagger, RabbitMQ
+      * Java, Groovy, Spring Boot, Micronaut, Spock, React, React Native
+      * PostgreSQL, MongoDB, Spring Data
+      * Docker, Kubernetes
+      * GitLab CI/CD, Jira, Gradle, Git, Miro
 
 * **Solutions Architect**
     * RANDSTAD
@@ -28,8 +40,7 @@ redirect_from:
       * AWS
       * REST, Swagger, OAuth, IBM API Connect
       * Java 8, Spring Boot, Spring Cloud
-      * PostgreSQL, Oracle, JPA, Spring Data
-      * JSON, XML, YML
+      * PostgreSQL, Oracle, Spring Data
       * Docker, Kubernetes
       * JUnit, Mockito
       * Jenkins, Jira, Maven, Git
@@ -42,7 +53,7 @@ redirect_from:
     * Technologies:
       * Java 8, Spring Boot, Spring Cloud
       * REST, Swagger, Kafka
-      * Oracle, MongoDB, JPA, Spring Data
+      * Oracle, MongoDB, Spring Data
       * JSON, XML, YML
       * Docker, Kubernetes
       * JUnit, Mockito
@@ -56,7 +67,7 @@ redirect_from:
     * Technologies:
       * Java 8, Spring Boot
       * REST, Swagger
-      * MongoDB, JPA, Spring Data
+      * MongoDB, Spring Data
       * JSON, XML, YML
       * Docker
       * JUnit, Mockito, PowerMock
