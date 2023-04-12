@@ -12,7 +12,7 @@ redirect_from:
 * **Tech Lead**
     * IOBUILDERS BLOCKCHAIN TECH & VENTURES SL
     * Madrid, Spain
-    * February 2022 - Present
+    * February 2022 - December 2022
       * Lead the development across frontend and backend teams
       * Work with product owners/managers to help with the product roadmap
       * Serve as a go-to person for tech-related questions
