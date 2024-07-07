@@ -16,7 +16,7 @@ I consider myself a proactive, responsible and focused professional on finding s
 
 Specialist in the development of projects with microservice-oriented architectures, I am currently working on their analysis and implementation in a framework of collaboration within a team using agile methodologies.
 
-In constant search for new challenges that enhance my qualities as an engineer and as a person. I face them with enthusiasm and open minded. Particularly interested in Event-driven architectures, Blockchain and cloud projects with AWS.
+In constant search for new challenges that enhance my qualities as an engineer and as a person. I face them with enthusiasm and open minded. Particularly interested in Event-driven architectures and cloud projects with AWS.
 
 > "Luck only favours the trained mind".
 
