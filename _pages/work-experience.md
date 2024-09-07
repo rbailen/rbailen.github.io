@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * **Software Engineer**
-    * Freelance
+    * FREELANCE
     * Spain
     * December 2022 - Present
         * Analysis, design, and development of REST APIs within a microservices architecture, following the API First methodology
@@ -21,7 +21,8 @@ redirect_from:
     * Technologies:
       * Java, Spring Boot
       * REST, Swagger, Kafka, ELK
-      * PostgreSQL, MongoDB, Spring Data • Docker, Kubernetes
+      * PostgreSQL, MongoDB, Spring Data
+      * Docker, Kubernetes
       * JUnit, Mockito, Testcontainers
       * GitHub Actions, Jira, Maven, Git
  
