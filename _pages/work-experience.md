@@ -13,8 +13,8 @@ redirect_from:
     * FREELANCE
     * Spain
     * December 2022 - Present
-        * Analysis, design, and development of REST APIs within a microservices architecture, following the API First methodology
-        * Analysis, design, and development of event-driven architectures
+        * Analysis, design and development of REST APIs within a microservices architecture, following the API First methodology
+        * Analysis, design and development of event-driven architectures
         * Define and implement solutions for backend component architecture
         * Automated test development, including unit and integration testing
         * Provide continuous support to existing projects
