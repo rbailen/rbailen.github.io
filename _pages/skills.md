@@ -16,10 +16,12 @@ redirect_from:
   * Quarkus
   * Micronaut
 * APIs
+  * OpenAPI, AsyncAPI
   * REST, Swagger
   * OAuth, JWT
   * IBM API Connect
-* Testing: JUnit, Mockito, PowerMock, JaCoCo, Cucumber, Spock
+* Monitoring: ELK, Prometheus
+* Testing: JUnit, Mockito, Testcontainers, PowerMock, Cucumber, Spock
 * Databases:
   * Derby, MySQL, Oracle, PostgreSQL, H2
   * MongoDB
@@ -32,7 +34,9 @@ redirect_from:
 * Cloud: AWS
 * DevOps:
   * CI/CD
-  * Maven, Jenkins, Sonar, Checkstyle
+  * Jenkins, GitHub Actions
+  * Maven
+  * JaCoCo, Checkstyle, SonarQube
   * Docker, Kubernetes
 * Servers: Undertow, Apache Tomcat, JBoss, Oracle WebLogic Server
 * CVS: Git, SVN, GitHub, Plastic

@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+* **Software Engineer**
+    * Freelance
+    * Spain
+    * December 2022 - Present
+        * Analysis, design, and development of REST APIs within a microservices architecture, following the API First methodology
+        * Analysis, design, and development of event-driven architectures
+        * Define and implement solutions for backend component architecture
+        * Automated test development, including unit and integration testing
+        * Provide continuous support to existing projects
+    * Technologies:
+      * Java, Spring Boot
+      * REST, Swagger, Kafka, ELK
+      * PostgreSQL, MongoDB, Spring Data • Docker, Kubernetes
+      * JUnit, Mockito, Testcontainers
+      * GitHub Actions, Jira, Maven, Git
+ 
 * **Tech Lead**
     * IOBUILDERS BLOCKCHAIN TECH & VENTURES SL
     * Madrid, Spain
