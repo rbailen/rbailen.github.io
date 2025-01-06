@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer in charge of the definition and implementation of backend component architectures.
+Hi there! 👋
 
-Passionate about sports in general, and the world of running in particular, I take part of my free time to train and be able to share the circuit of renowned national races with elite athletes.
+I’m Ramón, a Software Engineer with over 10 years of experience helping companies build scalable, efficient, and robust backend systems using Java and modern architecture patterns. I specialize in designing, implementing, and optimizing microservices architectures with methodologies like Domain-Driven Design (DDD) and Hexagonal Architecture.
 
-I consider myself a proactive, responsible and focused professional on finding solutions and obtaining results, with experience in the development of web applications, from the conception of the initial architecture to its final implementation. Despite my preference on coding, my training and knowledge as a software engineer allow me to have a global vision of the projects.
+Throughout my career, I’ve worked on exciting projects across various industries, including banking, insurance, retail, and public administration. This has allowed me to tackle unique challenges, adapt to different environments, and deliver solutions that truly make an impact.
 
-Specialist in the development of projects with microservice-oriented architectures, I am currently working on their analysis and implementation in a framework of collaboration within a team using agile methodologies.
+I am a proactive, responsible, and solution-oriented professional. My approach goes beyond just writing code. My goal is to understand the bigger picture, ensuring my contributions support a project's overall success. While I love diving deep into development, I also enjoy collaborating with teams and clients to deliver meaningful results.
 
-In constant search for new challenges that enhance my qualities as an engineer and as a person. I face them with enthusiasm and open minded. Particularly interested in Event-driven architectures and cloud projects with AWS.
+If you’re looking for someone to help you build a robust and maintainable backend solution designed to support your goals, or if you need guidance on improving your current system, I’d love to chat! Let’s build something amazing together.
 
-> "Luck only favours the trained mind".
+💬 Feel free to reach out at > ramonbailen10@gmail.com 
+to discuss your project needs or ideas!
 
 <!--
 A data-driven personal website
