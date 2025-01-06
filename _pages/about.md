@@ -18,7 +18,7 @@ I am a proactive, responsible, and solution-oriented professional. My approach g
 
 If you’re looking for someone to help you build a robust and maintainable backend solution designed to support your goals, or if you need guidance on improving your current system, I’d love to chat! Let’s build something amazing together.
 
-💬 Feel free to reach out at ramonbailen10@gmail.com to discuss your project needs or ideas!
+💬 Feel free to reach out at *ramonbailen10@gmail.com* to discuss your project needs or ideas!
 
 <!--
 A data-driven personal website
